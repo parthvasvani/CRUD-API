@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "412397077350",
+    "project_id": "login-with-getx-c580a",
+    "storage_bucket": "login-with-getx-c580a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412397077350:android:dbcd164d878578e91b3ea7",
+        "android_client_info": {
+          "package_name": "com.example.login_api"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUa9nQUqlQjIW377O7IxHbT8ShMnAOka4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412397077350:android:281d26d17ea31e9c1b3ea7",
+        "android_client_info": {
+          "package_name": "com.example.loginapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUa9nQUqlQjIW377O7IxHbT8ShMnAOka4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
